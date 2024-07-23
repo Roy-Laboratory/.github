@@ -51,9 +51,7 @@ Bridging the gap between animal studies and human applications by developing hum
 
 ## 🤝 Get Involved
 
-Want to contribute to our research? Here’s how you can get started:
-- **Check out our contribution guidelines** (link to guidelines)
-- **Explore our documentation** (link to docs)
+Want to contribute to our research?
 - **Reach out to us** for collaboration opportunities.
 
 
